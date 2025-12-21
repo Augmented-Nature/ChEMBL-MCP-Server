@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/augmented-nature-chembl-mcp-server-badge.png)](https://mseep.ai/app/augmented-nature-chembl-mcp-server)
+
 ![ChEMBL MCP Server Logo](chembl-mcp-server-logo.png)
 
 # **Unofficial** ChEMBL MCP Server
